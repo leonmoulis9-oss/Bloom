@@ -1,0 +1,43 @@
+.slika{
+	background-image:url(Bjelovar.jpg);
+	background-repeat:no-repeat;
+	background-size:105%;
+}
+.st{
+	text-align:center;
+	align-content:center;
+	margin:20%;
+	font-size:500%;
+	color:white;
+	border:5px solid white;
+}
+.pr{
+	text-align:center;
+	padding:5px;
+	border:2px solid darkgreen;
+}
+h2{
+	text-decoration:underline;
+	text-align:center;
+}
+.boja{
+	background-color:rgb(225, 225, 255);
+	margin:30px;
+	color:black;
+	padding:20px;
+	border:5px solid black;
+}
+table{
+	width:100%;
+	text-align:center;
+	background-color:rgb(194, 255, 189);
+}
+footer{
+	color:white;
+	background-color:black;
+}
+.nova {
+	width:100%;
+	text-align:center;
+	background-color:rgb(194, 255, 189);
+}

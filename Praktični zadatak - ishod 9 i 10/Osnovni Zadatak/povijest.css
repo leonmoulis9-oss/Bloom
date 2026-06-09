@@ -1,0 +1,21 @@
+body{
+    font-family:Arial, sans-serif;
+}
+table{
+	width:100%;
+	text-align:center;
+	background-color:rgb(194, 255, 189);
+}
+h1, h2{
+     text-align:center;
+}
+p{
+    background-color:lightblue;
+    margin:5px;
+    padding:10px;
+    border:2px dashed rgb(16, 16, 31);
+}
+footer{
+	color:white;
+	background-color:black;
+}
