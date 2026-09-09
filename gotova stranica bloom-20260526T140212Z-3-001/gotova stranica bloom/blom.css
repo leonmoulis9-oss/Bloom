@@ -1,0 +1,19 @@
+body{
+	background-image:url(florabg.jpg);
+	background-repeat:no-repeat;
+	background-size:2500px;
+}
+#2{
+	background-image:url(B.png);
+	background-repeat:no-repeat;
+	padding:200px;
+	background-position:left top;
+	border:100px;
+}
+.F > div{
+	  display: flex;
+	  flex-direction:right;
+}
+.4{
+	align-content:center;
+}

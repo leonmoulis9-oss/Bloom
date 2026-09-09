@@ -1,0 +1,20 @@
+.slika{
+	background-image:url(Bjelovar.jpg);
+	background-repeat:no-repeat;
+	background-size:105%;
+}
+.st{
+	text-align:center;
+	align-content:center;
+	margin:20%;
+	font-size:500%;
+	color:black;
+	border:5px solid gray;
+	background-color:gray;
+}
+.pr{
+	text-align:center;
+	padding:5px;
+	border:2px solid darkgreen;
+	background-image:url();
+}

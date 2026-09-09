@@ -1,0 +1,73 @@
+#naslovnidiv {
+background-color:#d1c9d1;
+width:300px;
+align-content:left;
+border:5px solid black;
+padding:5px;
+border-radius:50px 50px 30px 30px;
+margin:auto;
+}
+.prvinaslov {
+text-align:center;
+font-family:cursive;
+color:white;
+background-color:#ada0ad;
+border-radius:15px;
+}
+#intro{
+	font-family:cursive;
+	text-align:center;
+	margin:5px;
+}
+.calendar{
+	align-content:justify;
+	margin:5px;
+}
+#current-day{
+	color:red;
+	background-color:#800800;
+	border-radius:100px;
+}
+.solution{
+	border:2px solid black;
+	border-radius:10px;
+	font-size:25px;
+	background-color:#d1c9d1;
+}
+p, h2, td{
+	font-family:cursive;
+}
+.Clock{
+	width:20px;
+	border-radius:100px;
+}
+td{
+	text-align:center;
+}
+#end{
+	background-color:#d1c9d1;
+	width: 1950;
+	text-align: left;
+	border-radius: 10px;
+	font-size: 16px;
+}
+html{
+	background-image:url(florabg.jpg);
+	background-repeat:no-repeat;
+	background-size:2500px;
+}
+#2{
+	background-image:url(B.png);
+	background-repeat:no-repeat;
+	padding:200px;
+	background-position:left top;
+	border:100px;
+}
+.F{
+	  display: flex;
+	  justify-content:left;
+	  gap:475px
+}
+.5{
+	align-content:center;
+}
